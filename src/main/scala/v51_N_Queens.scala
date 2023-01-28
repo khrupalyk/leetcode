@@ -70,7 +70,7 @@ class v51_N_Queens extends AnyFunSuite {
     //    .Q..
     //    ..Q.
 
-    println(solveNQueens(4))
+//    println(solveNQueens(4))
 ////      [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 //    println(solveNQueens(1))
 //
