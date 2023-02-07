@@ -21,6 +21,7 @@ class v98_Validate_Binary_Search_Tree extends AnyFunSuite {
 
   test("Validate Binary Search Tree") {
 
+
     assert(isValidBST(
       new TreeNode(3,
         new TreeNode(1,
