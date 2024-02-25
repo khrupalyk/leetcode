@@ -1,0 +1,4 @@
+
+
+
+//println(isAvailable("a", "d"))
